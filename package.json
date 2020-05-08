@@ -4,12 +4,12 @@
     "sails-util-micro-apps": "github:fogproject/sails-util-micro-apps"
   },
   "deprecated": false,
-  "description": "A printer plugin for fog 2.0",
+  "description": "A snapin plugin for fog 2.0",
   "fog": {
     "isPlugin": true
   },
   "main": "index.js",
-  "name": "fog-plugin-print",
+  "name": "fog-plugin-snapin",
   "private": true,
   "sails": {
     "isHook": true

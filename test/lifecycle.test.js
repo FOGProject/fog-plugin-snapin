@@ -5,7 +5,7 @@ before(function(done) {
   sails.lift({
     appPath: '../..',
     hooks: {
-      'fog-plugin-print': require('../'),
+      'fog-plugin-snapin': require('../'),
       grunt: false
     },
     log: {level: 'error'}
