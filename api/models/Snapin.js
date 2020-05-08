@@ -63,12 +63,10 @@ module.exports = {
       defaultsTo: 0
     },
     hosts: {
-      collection: 'host',
-      via: 'snapin'
+      collection: 'host'
     },
     groups: {
-      collection: 'group',
-      via: 'snapin'
+      collection: 'group'
     }
   }
 }

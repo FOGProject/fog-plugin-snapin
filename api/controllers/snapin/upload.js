@@ -1,6 +1,6 @@
 module.exports = {
   friendlyName: 'Upload',
-  description: 'Upload snapin.'
+  description: 'Upload snapin.',
   exits: {
     error: {
       description: 'An error occurred',
