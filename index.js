@@ -5,7 +5,7 @@ module.exports = function(sails) {
     //hooks: __dirname + '/api/hooks',
     //policies: __dirname + '/api/policies',
     config: __dirname + '/config',
-    views: __dirname + '/views',
+    //views: __dirname + '/views',
     //assets: __dirname + '/assets'
   });
 
